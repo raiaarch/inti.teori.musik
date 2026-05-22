@@ -1206,3 +1206,25 @@ https://templatemo.com/tm-593-personal-shape
                 padding: 0 1rem;
             }
         }
+#authArea button {
+    background: none;
+    border: none;
+    color: var(--text-primary);
+    font-weight: 500;
+    font-size: 0.95rem;
+    cursor: pointer;
+    padding: 0.5rem 0;
+    font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', 'Arial', sans-serif;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+#authArea button:hover {
+    color: var(--primary-color);
+    transform: translateY(-1px);
+}
+
+#userInfo {
+    color: var(--text-primary);
+    font-weight: 500;
+    font-size: 0.95rem;
+}
