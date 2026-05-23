@@ -479,7 +479,7 @@ https://templatemo.com/tm-593-personal-shape
 
         .hero-content {
             text-align: center;
-            color: var(--text-light);
+            color: #1a1a1a;
             z-index: 2;
             position: relative;
             max-width: 900px;
@@ -495,7 +495,7 @@ https://templatemo.com/tm-593-personal-shape
             transform: translateY(30px);
             animation: fadeInUp 1s ease 0.2s forwards;
             margin-bottom: 1rem;
-            color: rgba(255, 255, 255, 0.8);
+            color: rgba(26, 26, 26, 0.8);
         }
 
         .hero h1 {
@@ -516,7 +516,7 @@ https://templatemo.com/tm-593-personal-shape
             opacity: 0;
             transform: translateY(30px);
             animation: fadeInUp 1s ease 0.6s forwards;
-            color: rgba(255, 255, 255, 0.9);
+            color: rgba(26, 26, 26, 0.9);
             font-weight: 400;
             max-width: 600px;
             margin-left: auto;
