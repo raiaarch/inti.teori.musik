@@ -775,27 +775,27 @@ https://templatemo.com/tm-593-personal-shape
         }
 
         .portfolio-item:nth-child(1) .portfolio-image {
-            background-image: url('images/working-business-women.jpg');
+            background-image: url('images/not.jpg');
         }
 
         .portfolio-item:nth-child(2) .portfolio-image {
-            background-image: url('images/computer-desk-stickers.jpg');
+            background-image: url('images/tangga.jpg');
         }
 
         .portfolio-item:nth-child(3) .portfolio-image {
-            background-image: url('images/curved-display-pinky-girl.jpg');
+            background-image: url('images/interval.jpg');
         }
 
         .portfolio-item:nth-child(4) .portfolio-image {
-            background-image: url('images/dashboard-interfaces-transparent-displays.jpg');
+            background-image: url('images/akor.jpg');
         }
 
         .portfolio-item:nth-child(5) .portfolio-image {
-            background-image: url('images/marketing-strategy-women.jpg');
+            background-image: url('images/progresi.jpg');
         }
 
         .portfolio-item:nth-child(6) .portfolio-image {
-            background-image: url('images/portfolio-website-girl.jpg');
+            background-image: url('images/birama.jpg');
         }
 
         .portfolio-image::before {
