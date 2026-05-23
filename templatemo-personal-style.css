@@ -17,7 +17,7 @@ https://templatemo.com/tm-593-personal-shape
 
         /* Footer */
         .footer {
-    background: linear-gradient(135deg, #0a0a0a 0%, #1a1a1a 50%, #2a2a2a 100%);
+    background: linear-gradient(135deg, #333333 0%, #3a3a3a 50%, #2a2a2a 100%);
             color: var(--text-light);
             padding: 3rem 0 2rem;
             border-top: 1px solid rgba(255, 255, 255, 0.1);
@@ -138,7 +138,7 @@ https://templatemo.com/tm-593-personal-shape
     --gradient-primary: linear-gradient(135deg, #1a1a1a 0%, #3a3a3a 100%);
     --gradient-secondary: linear-gradient(135deg, #2a2a2a 0%, #4a4a4a 100%);
     --gradient-tertiary: linear-gradient(135deg, #0a0a0a 0%, #2a2a2a 100%);
-    --gradient-elegant: linear-gradient(135deg, #1a1a1a 0%, #2a2a2a 50%, #f5c518 100%);
+    --gradient-elegant: linear-gradient(135deg, #f0f0f0 0%, #fae28c 50%, #f5c518 100%);
     --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
     --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
     --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
@@ -162,7 +162,7 @@ https://templatemo.com/tm-593-personal-shape
             position: fixed;
             top: 0;
             width: 100%;
-            background: rgba(255, 255, 255, 0.95);
+            background: rgba(20, 20, 20, 0.95);
             backdrop-filter: blur(20px);
             z-index: 1000;
             padding: 1rem 0;
@@ -171,7 +171,7 @@ https://templatemo.com/tm-593-personal-shape
         }
 
         nav.scrolled {
-            background: rgba(255, 255, 255, 0.98);
+            background: rgba(20, 20, 20, 0.98);
             box-shadow: var(--shadow-lg);
             padding: 0.75rem 0;
         }
