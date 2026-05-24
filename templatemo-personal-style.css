@@ -1329,6 +1329,9 @@ https://templatemo.com/tm-593-personal-shape
         background-clip: text;
         -webkit-text-fill-color: transparent;
         font-weight: 500;
+       border: none;
+    outline: none;
+    -webkit-appearance: none;
     }
 
  .mobile-menu.active .mobile-nav-links li:nth-child(5) { transition-delay: 0.5s; }
